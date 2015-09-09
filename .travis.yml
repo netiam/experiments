@@ -5,4 +5,5 @@ node_js:
 before_install:
   - npm i -g npm@^2.0.0
   - npm install -g node-gyp
+  - npm install node-pre-gyp
 
