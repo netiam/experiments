@@ -1,0 +1,25 @@
+{
+  "name": "experiments",
+  "version": "1.0.0",
+  "description": "Experimental language and lib features.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/netiam/experiments.git"
+  },
+  "keywords": [
+    "netiam"
+  ],
+  "author": "Hannes Moser <hannes@impossiblearts.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/netiam/experiments/issues"
+  },
+  "homepage": "https://github.com/netiam/experiments#readme",
+  "dependencies": {
+    "bcrypt": "^0.8.5"
+  }
+}
