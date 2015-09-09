@@ -2,9 +2,3 @@ sudo: false
 language: node_js
 node_js:
   - "4"
-before_install:
-  - npm i -g npm@^2.0.0
-  - export PATH=./node_modules/.bin/:$PATH
-  - npm install -g node-gyp
-  - npm install node-pre-gyp
-
