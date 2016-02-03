@@ -4,7 +4,6 @@
   "description": "Experimental language and lib features.",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
   },
   "repository": {
     "type": "git",
