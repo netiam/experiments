@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/netiam/experiments#readme",
   "dependencies": {
-    "bcrypt": "^0.8.7"
+    "bcrypt": "^1.0.0"
   }
 }
